@@ -1,0 +1,33 @@
+Backend
+	Get: fetch all items from the database and return them
+	Create: create a new item, save it to the database and return it
+
+Frontend
+	Single view application
+	Allows the user to view all items in the database (through a table or similar)
+	Allows the user to create a new item and see the list of items updated after inserting it
+
+Example
+	The chosen item are animals at the zoo, so the user may view all animals (including some specific data), input any new animals that have arrived and delete the record of any chosen animal.
+
+Requirements
+	Must be built using the MERN stack
+	All frontend styles are up to you, show us your creativity!
+	Both apps must be documented with a README file
+	All libraries and packages (besides the MERN stack) are up to you
+
+Extra Points
+	The following are NOT required, but may give you an advantage, so they are highly encouraged:
+
+	Use of React Hooks
+	Any loading method (Suspense, loading state through Hooks, etc.)
+	Animations
+	End-to-end backend testing (with Jest)
+	Use GraphQL instead of REST
+	Allow update of items
+	Allow deletion for items for api and client
+	Add pagination to the list
+	Have responsive design
+
+How do I deliver my app?
+From the moment you receive these instructions, you have 5 days to finish the assignment. The app must be delivered through a public GitHub (or equivalent) link as a reply to this email.

@@ -1,0 +1,9 @@
+main{
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  height: calc(100% - 60px);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
